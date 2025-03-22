@@ -1,0 +1,1 @@
+Usando duas camadas convolucionais e duas hidden layers na rede, é possível obter uma precisão bem maior em comparação a usar apenas uma camada em qualquer uma das duas etapas
